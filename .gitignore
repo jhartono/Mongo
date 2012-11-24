@@ -4,3 +4,17 @@
 *.jar
 *.war
 *.ear
+
+# Generic Files to ignore #
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
+
+# Maven and Eclipse Files to ignore #
+.metadata/
+.classpath
+.project
+.settings/
+target/
